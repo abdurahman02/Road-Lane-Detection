@@ -1,0 +1,1 @@
+change the value in im_str_1 to change the test image
